@@ -9,6 +9,7 @@ You are welcomed to comment directly under the same link provided above to tell 
 
 
 To download a clearer copy of the standalone framework in Excel format, please visit: https://github.com/pythaverse-space/COCREATE/blob/6e927c898175920348c039535413ea3ecd78569f/Pythaverse%20CoCreate%20Framework_Public_Jan2024.xlsx
+
 You are welcomed to comment directly under the same link provided above to tell us what you think, what can be improved, or removed from the Framework.
 
 To acknowledge the authors, please include the text, “This Pythaverse CoCreaete Framework was created by Pythaverse Pte Ltd.”
